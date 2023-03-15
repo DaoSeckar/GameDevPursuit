@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<group>
+	<rate>1</rate>
+	<life>5</life>
+	<velocity>0, -200, 0</velocity>
+	<Scale>1</Scale>
+	<Rotation_Speed__deg_Frame_>3</Rotation_Speed__deg_Frame_>
+	<Player_Life>3</Player_Life>
+</group>
